@@ -1,5 +1,7 @@
 # zsh-pi-cli
 
+[中文文档](README.zh-CN.md)
+
 pi coding agent integrated into zsh. Two modes via keybindings:
 
 <img src="assets/readme-demo.gif" alt="zsh-pi-cli demo" width="960" />
