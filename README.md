@@ -2,6 +2,8 @@
 
 pi coding agent integrated into zsh. Two modes via keybindings:
 
+<img src="assets/readme-demo.gif" alt="zsh-pi-cli demo" width="960" />
+
 - **Ctrl+X** `🤖` — agent mode: type a request, pi executes it directly
 - **Ctrl+G** `💡` — suggest mode: type natural language, pi translates to a shell command you review first
 
